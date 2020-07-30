@@ -49,7 +49,7 @@ PYTHON_VERSION="3.5"
 ANSIBLE_DIR="/tmp/ansible"
 CONFIGURATION_DIR="/tmp/configuration"
 EDX_PPA_KEY_SERVER="keyserver.ubuntu.com"
-EDX_PPA_KEY_ID="B41E5E3969464050"
+EDX_PPA_KEY_ID="hkp://keyserver.ubuntu.com:80"
 
 cat << EOF
 ******************************************************************************
